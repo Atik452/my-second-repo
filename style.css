@@ -3,6 +3,10 @@
             color: red;
             text-align: center;
             text-shadow: 5px;
-            font-size: 35px;
+            font-size: 50px;
+        }
+        .btn-submit{
+            color: rgb(209, 41, 41);
+            background-color: rgb(21, 253, 0);
         }
     
